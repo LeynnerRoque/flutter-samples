@@ -78,7 +78,7 @@ class _LoginPageOneState extends State<LoginPageOne> {
                     ),
                 style: TextStyle(color: Colors.blue),
                 cursorColor: Colors.blue,
-              )
+              ),
             ],
           ),
         ),
